@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="currentVal">0</string>
+    <string name="upCtr">Up</string>
+    <string name="downCtr">Down</string>
+    <string name="reset">Reset</string>
+</resources>
